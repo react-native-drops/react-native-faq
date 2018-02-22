@@ -14,8 +14,18 @@ React Native Drops - https://t.me/reactnativedrops
 ### O que é Expo?
 
 Expo (antigo Exponent) é um conjunto de ferramentas e bibliotecas open source (toolchain) construído em cima do React Native.
+
 Seu objetivo principal é auxiliar na construção de aplicações nativas em iOS e Android usando Javascript e React.
 Além das ferramentas e bibliotecas, uma série de serviços foram incorporados/integrados ao Expo - push notifications e publicação nas lojas de apps são um exemplo.
+
+### Quais as vantagens de se usar Expo?
+
+- Facilidade para iniciantes: usando Expo, você não precisa quebrar a cabeça instalando e configurando o XCode, Android Studio (que praticamente 99% das pessoas batem cabeça). 
+
+- Agilidade de desenvolvimento: o conjunto de ferramentas, facilita e agiliza bastante o ciclo de desenvolvimento.
+
+- APIs e bibliotecas integradas no Expo SDK: as necessidades básicas de uma app são supridas pelo Expo SDK - tudo isso sem ter que fazer link de bibliotecas nativas.
+
 
 ### Quando não usar Expo?
 

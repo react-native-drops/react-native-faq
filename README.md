@@ -35,7 +35,7 @@ Outra deficiência do Expo, pelo menos por enquanto, é que ele não suporta có
 
 Outra coisa, se você precisa muito que seu binário de seu app seja muito pequeno, atenção. Qualquer app feito com Expo terá 25mb (iOS) ou 20mb (Android). Por que isso? Bom, Expo inclui uma série de bibliotecas no Expo SDK. E mesmo que você use apenas uma delas (notificações, por exemplo), você carregará todo o restante das bibliotecas no pacote final. A boa notícia que isso já está sendo tratado e em breve seus apps serão mais "magros".
 
-E por último, se você quiser usar um serviço especfico de push notification, OneSignal por exemplo, e não o serviço de Push Notification do Expo, você vai precisar usar ExpoKit ou React Native puro.
+E por último, se você quiser usar um serviço especfico de push notification, OneSignal por exemplo, e não o serviço de Push Notification do Expo, você vai precisar usar [ExpoKit](https://docs.expo.io/versions/latest/guides/expokit.html) ou React Native puro.
 
 
 
